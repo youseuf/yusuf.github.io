@@ -5,7 +5,7 @@
 }
 
 .parallax-container {
-    height: 30%;
+    height: 100%;
 }
 
 .parallax img {
@@ -14,7 +14,7 @@
 }
 
 .clients img {
-    max-width: 150px;
+    max-width: 1500px;
     filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
 }
 
